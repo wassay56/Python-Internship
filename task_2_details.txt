@@ -1,0 +1,16 @@
+Build a Python program to manage inventory for a perfectshine company . The
+system should allow users to add, edit, and delete products, track inventory levels,
+
+and generate reports such as low- stock alerts or sales summaries. Implement
+features like user authentication,
+data validation, and graphical user interface (GUI) for better usability.
+
+
+nventory Manager, Tkinter GUI + SQLite
+
+Features
+- User authentication with salted password hashing
+- Products CRUD
+- Track stock levels and record sales
+- Low stock alerts and sales summary reports
+- Basic role, admin can manage users
