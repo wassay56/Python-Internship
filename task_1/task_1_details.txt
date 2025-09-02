@@ -1,0 +1,9 @@
+to create a atm machine using python only demo 
+
+Some Features:
+cash deposit
+cash withdraw 
+total cash 
+total Account display
+
+5 Account 
