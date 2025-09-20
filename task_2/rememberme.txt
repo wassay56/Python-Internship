@@ -1,2 +1,1 @@
 perfectshine_admin
-password : shine123
